@@ -77,11 +77,3 @@ Highlights:
 ![K230](https://img.shields.io/badge/K230-Embedded_AI-blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelinaWang-24998&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SelinaWang-24998)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SelinaWang-24998)
