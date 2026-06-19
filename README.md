@@ -12,7 +12,6 @@ and practical engineering.
 - 🔭 I'm currently working on full-stack and AI-powered applications.
 - 🌱 I'm currently learning Agent-assisted development, better product-oriented engineering, and embedded AI deployment.
 - 📫 How to reach me: 23301016@bjtu.edu.cn
-- ⚡ Fun fact: I like building things that are both useful and a little playful.
 
 ### Featured Projects
 
