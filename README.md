@@ -27,8 +27,7 @@ Highlights:
 - Built HTTP/MJPEG streaming and browser-side visualization for real-time inspection
 - Implemented defect statistics, detection records, and Web control features
 
-#### Smart Medical Platform
-
+#### [Smart Medical Platform](https://github.com/Asnowww/Shengxin-Hospital-Appointment-System)
 A team-based smart healthcare system covering appointment registration, doctor scheduling, online consultation, AI consultation, and indoor navigation.
 
 Highlights:
