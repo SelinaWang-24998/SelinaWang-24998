@@ -1,8 +1,11 @@
 ## Hi there, I'm Selina Wang 👋
 
-I'm a Software Engineering undergraduate at Beijing Jiaotong University, interested in AI applications, full-stack development, computer vision, and creative interactive products.
+I'm a Software Engineering undergraduate at Beijing Jiaotong University, 
+interested in AI applications, full-stack development, computer vision, and creative interactive products.
 
-I enjoy turning ideas into working demos, from web apps to embedded AI systems and games.
+I enjoy building products from idea to prototype,
+especially projects that combine AI, interactive experiences,
+and practical engineering.
 
 ### About Me
 
@@ -12,17 +15,6 @@ I enjoy turning ideas into working demos, from web apps to embedded AI systems a
 - ⚡ Fun fact: I like building things that are both useful and a little playful.
 
 ### Featured Projects
-
-#### [unwinged / 插翅难飞](https://github.com/SelinaWang-24998/unwinged)
-
-A web game built with Three.js.  
-The game creates an island escape experience where the player collects fragments, avoids a pursuer, interacts with terrain and ocean effects, and can play with mobile gyroscope controls.
-
-Highlights:
-
-- Built a browser-based 3D game with Three.js
-- Designed mobile-friendly interaction with gyroscope support
-- Focused on fast prototyping, game feel, and interactive storytelling during hackathon development
 
 #### [bolt_detect](https://github.com/SelinaWang-24998/bolt_detect)
 
@@ -42,10 +34,10 @@ A team-based smart healthcare system covering appointment registration, doctor s
 Highlights:
 
 - Led backend development with Spring Boot, MySQL, Redis, and WebSocket
-- Integrated LLM API for AI-powered medical consultation
+- Integrated LLM-powered consultation workflow for preliminary symptom analysis and medical Q&A.
 - Built real-time doctor-patient messaging and appointment workflow logic
 
-#### DADA Campus E-bike Sharing Platform
+#### Campus E-bike Sharing Platform
 
 A campus mobility platform with passenger, driver, and admin-side workflows.
 
@@ -54,6 +46,17 @@ Highlights:
 - Developed full-stack features with Vue 3, UniApp, Spring Boot, MySQL, Redis, and JWT
 - Integrated Tencent Map API for route planning and travel-time estimation
 - Practiced Git / Gerrit collaboration and Code Review workflow
+
+#### [unwinged ](https://github.com/SelinaWang-24998/unwinged)
+
+A web game built with Three.js.  
+The game creates an island escape experience where the player collects fragments, avoids a pursuer, interacts with terrain and ocean effects, and can play with mobile gyroscope controls.
+
+Highlights:
+
+- Built a browser-based 3D game with Three.js
+- Designed mobile-friendly interaction with gyroscope support
+- Focused on fast prototyping, game feel, and interactive storytelling during hackathon development
 
 ### Tech Stack
 
@@ -75,6 +78,10 @@ Highlights:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### GitHub Stats
+### GitHub Activity
 
-![Selina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelinaWang-24998&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelinaWang-24998&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SelinaWang-24998)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SelinaWang-24998)
