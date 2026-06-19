@@ -1,4 +1,4 @@
-## Hi there, I'm Selina Wang 👋
+## Hi there, I'm Selina 👋
 
 I'm a Software Engineering undergraduate at Beijing Jiaotong University, 
 interested in AI applications, full-stack development, computer vision, and creative interactive products.
@@ -35,7 +35,7 @@ Highlights:
 - Integrated LLM-powered consultation workflow for preliminary symptom analysis and medical Q&A.
 - Built real-time doctor-patient messaging and appointment workflow logic
 
-#### Campus E-bike Sharing Platform
+#### Campus E-bike Sharing Platform (DADA E-bike)
 
 A campus mobility platform with passenger, driver, and admin-side workflows.
 
